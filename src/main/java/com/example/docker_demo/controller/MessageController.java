@@ -1,7 +1,6 @@
 package com.example.docker_demo.controller;
 
 import com.example.docker_demo.model.Message;
-import com.example.docker_demo.repository.MessageRepository;
 import com.example.docker_demo.service.MessageService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
